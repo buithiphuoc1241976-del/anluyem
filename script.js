@@ -236,7 +236,6 @@ window.copyIP = function (ip, element) {
 
 // Live Discord Presence (Lanyard API)
 const DISCORD_ID = '1121725169472372837';
-const BASE_BADGE_URL = "https://raw.githubusercontent.com/Debuggingss/discord-badges/master/pngs_named/";
 
 function getBadges(flags) {
     if (!flags) return "";
